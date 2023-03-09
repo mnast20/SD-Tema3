@@ -31,3 +31,7 @@ First, the tree will be splitted in two parts. Then, we create a node with the g
         
 ### Delete
 We split the tree twice (once at the end index and once at the start index) and we get 3 trees, with the one in the middle containing the substring we want to delete. Now, we free the middle tree and concatenate the other 2.
+
+
+# Link to Project:
+https://ocw.cs.pub.ro/courses/sd-ca/teme/tema3-2021
